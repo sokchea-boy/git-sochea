@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+.card{
+    background-color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+button{
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+.btn-teal{
+    background-color: teal;
+    color: #fff;
+}
+.btn-orange{
+    background-color: orange;
+    color: #fff;
+}
+.btn-purple{
+    background-color: purple;
+    color:#fff;
+}
+h1{
+    text-align: center;
+    color: #fff;
+}
+.btn-purple:hover{
+    color: pink;
+    background-color: aqua;
+}
+.btn-teal:hover{
+    background-color: lightblue;
+}
+.btn-orange:hover{
+    background-color: lightskyblue  ;
+}
